@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/model/Category.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/css/login.css</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/ManagerAccount.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DAOProduct.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DBContext.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/CategoryController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/AddCartController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/DeleteCategoryController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/detail.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/ManageProductController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/EditProduct.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/UpdateCategoryController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DAOCategory.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/CheckOutController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/EditCategory.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/model/Product.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DAOOrder.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/model/Cart.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DAOOrderDetail.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DAOCart.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/LogoutController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/EditAccountController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/ManagerCategory.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/Thanks.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/model/Shipping.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/AddNewProduct.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/UpdateAccountController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/UpdateProductController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/css/styles.css</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/ViewCart.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/dal/DAOShipping.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/ManageCategoryController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/ClearCartController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/login.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/DetailController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/ThankController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/CheckOut.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/DeleteProductController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/src/java/controller/DeleteAccountController.java</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/home.jsp</file>
+            <file>file:/D:/PRJ_Document/testWebProject/web/AddNewCategory.jsp</file>
+        </group>
+    </open-files>
+</project-private>
